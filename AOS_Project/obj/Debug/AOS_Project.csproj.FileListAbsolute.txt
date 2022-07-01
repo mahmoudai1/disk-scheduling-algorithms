@@ -1,0 +1,11 @@
+C:\Users\mahmoud\source\repos\AOS_Project\AOS_Project\bin\Debug\AOS_Project.exe.config
+C:\Users\mahmoud\source\repos\AOS_Project\AOS_Project\bin\Debug\AOS_Project.exe
+C:\Users\mahmoud\source\repos\AOS_Project\AOS_Project\bin\Debug\AOS_Project.pdb
+C:\Users\mahmoud\source\repos\AOS_Project\AOS_Project\obj\Debug\AOS_Project.csprojAssemblyReference.cache
+C:\Users\mahmoud\source\repos\AOS_Project\AOS_Project\obj\Debug\AOS_Project.Form1.resources
+C:\Users\mahmoud\source\repos\AOS_Project\AOS_Project\obj\Debug\AOS_Project.Properties.Resources.resources
+C:\Users\mahmoud\source\repos\AOS_Project\AOS_Project\obj\Debug\AOS_Project.csproj.GenerateResource.cache
+C:\Users\mahmoud\source\repos\AOS_Project\AOS_Project\obj\Debug\AOS_Project.csproj.CoreCompileInputs.cache
+C:\Users\mahmoud\source\repos\AOS_Project\AOS_Project\obj\Debug\AOS_Project.exe
+C:\Users\mahmoud\source\repos\AOS_Project\AOS_Project\obj\Debug\AOS_Project.pdb
+C:\Users\mahmoud\source\repos\AOS_Project\AOS_Project\obj\Debug\AOS_Project.Form2.resources
